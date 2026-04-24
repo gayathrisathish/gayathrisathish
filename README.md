@@ -102,16 +102,6 @@ Maximum Drawdown   Jensen's Alpha
 
 ## &nbsp;⬡&nbsp;&nbsp;Things I'm Building (and Breaking)
 
-<br/>
-
-**🌍 GeoSentinel** &nbsp;·&nbsp; *Geospatial Threat Intelligence Dashboard*
-
-> Real ACLED conflict data · Isolation Forest anomaly detection · GAN-synthesized threat data · Groq Llama 3 70B SITREP generation · interactive 3D globe
-
-`FastAPI` `SQLite` `GeoPandas` `Groq` `Three.js`
-
-<br/>
-
 **📊 RiskLens** &nbsp;·&nbsp; *Financial Portfolio Risk Dashboard*
 
 > End-to-end risk analytics for Indian retail investors. Computes VaR, Beta, Sharpe Ratio, Max Drawdown, and Jensen's Alpha — benchmarked against Nifty 50. Dual-signal early-warning alerts via GARCH(1,1) volatility forecasting + FinBERT sentiment analysis. Proprietary RiskLens Score with Monte Carlo VaR and MPT efficient frontier optimization.
@@ -171,5 +161,5 @@ Building a detection system trained on one image generator (Stable Diffusion) an
 ---
 
 <div align="center">
-<sub><code>Chennai, India &nbsp;·&nbsp; SRM IST '28 &nbsp;·&nbsp; open to collaborate</code></sub>
+<sub><code>Chennai, India &nbsp;·&nbsp; SRM IST '28 &nbsp;·&nbsp; Open to collaborate</code></sub>
 </div>
