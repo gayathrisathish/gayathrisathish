@@ -24,10 +24,18 @@ CS undergrad. I build things that deal with risk, data, and uncertainty.
 
 ```python
 gayathri = {
-    "degree"    : "B.Tech CSE @ SRM IST, Kattankulatham  |  '28",
-    "builds"    : ["geospatial intelligence", "financial risk systems", "AI forensics"],
-    "languages" : ["Python", "Java", "C", "SQL"],
-    "interests" : ["quantitative finance", "ML research", "systems design"],
+    "role": "CS undergrad @ SRM IST ('28)",
+
+    "builds": [
+        "systems that deal with risk, data, and uncertainty"
+    ],
+
+    "current_state": {
+        "building": ["RiskLens", "multimodal verifier"],
+        "exploring": ["volatility forecasting", "multimodal robustness"]
+    },
+
+    "stack": ["Python", "C++", "SQL", "PyTorch", "FastAPI"]
 }
 ```
 
