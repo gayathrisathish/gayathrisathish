@@ -4,127 +4,157 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=1000&height=60&lines=Building+systems.+Exploring+finance.+Shipping+ideas." />
 <br/>
 
-<p>
-I build systems that make sense of risk, data, and uncertainty.
-</p>
+```
+CS undergrad. I build things that deal with risk, data, and uncertainty.
+```
 
 <br/>
 
-<!-- SOCIALS -->
-<a href="https://linkedin.com/in/gayathrisathish">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:gayathrisathish06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/gayathrisathish">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&label=gayathri-sathish)](https://linkedin.com/in/gayathrisathish)&nbsp;
+[![Mail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white&label=gayathrisathish06)](mailto:gayathrisathish06@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23161b22?style=flat-square&logo=github&logoColor=white&label=gayathrisathish)](https://github.com/gayathrisathish)
 
 </div>
 
----
-
-## ⬡ About Me
-
-Instead of learning concepts in isolation, I build systems that force me to understand them.
-
-Right now, that means working at the intersection of **finance, machine learning, and systems design** — building things that deal with uncertainty, not just clean datasets.
-
-I care more about:
-- how models behave in the real world  
-- how systems fail  
-- and how to turn messy signals into decisions  
+<br/>
 
 ---
 
-## ⬡ Tech Stack
+## &nbsp;⬡&nbsp;&nbsp;About Me
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+```python
+gayathri = {
+    "degree"    : "B.Tech CSE @ SRM IST, Kattankulatham  |  '28",
+    "builds"    : ["geospatial intelligence", "financial risk systems", "AI forensics"],
+    "languages" : ["Python", "Java", "C", "SQL"],
+    "interests" : ["quantitative finance", "ML research", "systems design"],
+}
+```
 
 <br/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+---
+
+## &nbsp;⬡&nbsp;&nbsp;Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Backend & Data**
+```
+FastAPI   PostgreSQL   SQLite   Redis
+pandas    NumPy        GeoPandas
+Docker    Git          pytest
+```
+
+</td>
+<td valign="top" width="50%">
+
+**ML / AI**
+```
+PyTorch       Hugging Face    scikit-learn
+GARCH         FinBERT         Isolation Forest
+Monte Carlo   Time Series     Geospatial Analysis
+```
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Frontend**
+```
+React    Streamlit    Leaflet    HTML/CSS
+```
+
+</td>
+<td valign="top">
+
+**Quant Finance**
+```
+VaR   Sharpe Ratio   Beta   MPT
+Maximum Drawdown   Jensen's Alpha
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+---
 
-</p>
+## &nbsp;⬡&nbsp;&nbsp;Things I'm Building (and Breaking)
+
+<br/>
+
+**🌍 GeoSentinel** &nbsp;·&nbsp; *Geospatial Threat Intelligence Dashboard*
+
+> Real ACLED conflict data · Isolation Forest anomaly detection · GAN-synthesized threat data · Groq Llama 3 70B SITREP generation · interactive 3D globe
+
+`FastAPI` `SQLite` `GeoPandas` `Groq` `Three.js`
+
+<br/>
+
+**📊 RiskLens** &nbsp;·&nbsp; *Financial Portfolio Risk Dashboard*
+
+> End-to-end risk analytics for Indian retail investors. Computes VaR, Beta, Sharpe Ratio, Max Drawdown, and Jensen's Alpha — benchmarked against Nifty 50. Dual-signal early-warning alerts via GARCH(1,1) volatility forecasting + FinBERT sentiment analysis. Proprietary RiskLens Score with Monte Carlo VaR and MPT efficient frontier optimization.
+
+`FastAPI` `Streamlit` `PyTorch` `FinBERT` `PostgreSQL` `Docker`
+
+<br/>
+
+**🔍 Multimodal Synthetic Media Verifier** &nbsp;·&nbsp; *AI-Generated Content Detection*
+
+> Forensic dashboard that aggregates four detection signals — spatial deepfake detection (EfficientNet-B4 + Grad-CAM), DCT frequency-domain analysis, rPPG physiological liveness, and C2PA content provenance — into a single explainable verdict. Built for cross-generator robustness across Stable Diffusion, Midjourney, and DALL-E.
+
+`PyTorch` `OpenCV` `MediaPipe` `FastAPI` `React` `Docker`
+
+<br/>
+
+**🗺️ DensityX** &nbsp;·&nbsp; *Real-Time Crowd Density Monitor*
+
+> DBSCAN-based clustering on live location streams → centroid + density computation → color-coded alert zones on an interactive geospatial map.
+
+`FastAPI` `React` `Leaflet` `DBSCAN`
+
+<br/>
 
 ---
 
-## ⬡ Things I'm Building (and Breaking)
+## &nbsp;⬡&nbsp;&nbsp;Ideas I'm Exploring
 
-### 📊 RiskLens · Financial Portfolio Risk Dashboard
+<br/>
 
-Real-time risk analytics for Indian retail portfolios — tracking VaR, volatility regimes, and exposure.
+**📈 GARCH-Informed Neural Networks**
 
-Instead of static metrics, the system combines:
-- **GARCH volatility forecasting**
-- **FinBERT sentiment signals**
-- **Monte Carlo VaR simulations**
+Building a hybrid GARCH-LSTM pipeline for financial time-series volatility — testing whether injecting econometric structure into a neural architecture improves forecast robustness across different market regimes. Rolling-window backtesting, comparative evaluation across ML and econometric baselines. Working toward a paper.
 
-→ to generate a dynamic risk score that actually reacts to market conditions.
+<br/>
 
-`FastAPI` `Streamlit` `PyTorch` `PostgreSQL`
+**🧠 Multimodal Synthetic Verifier — Cross-Generator Robustness**
 
----
+Building a detection system trained on one image generator (Stable Diffusion) and testing whether DCT frequency features help it generalise to unseen generators (Midjourney, DALL-E 3). Framing it as an open empirical question: does frequency-domain supervision make deepfake detectors less brittle?
 
-### 🔍 Multimodal Synthetic Media Verifier
-
-System for detecting whether content is real or AI-generated — across text, image, and video.
-
-Combines multiple weak signals:
-- spatial deepfake detection  
-- frequency-domain artifacts  
-- physiological cues (rPPG)  
-- provenance (C2PA)  
-
-→ into a single explainable decision layer.
-
-`PyTorch` `OpenCV` `FastAPI` `React`
+<br/>
 
 ---
 
-### 🗺️ DensityX · Crowd Density Monitor
+## &nbsp;⬡&nbsp;&nbsp;GitHub Stats
 
-Real-time clustering + geospatial visualization using live location streams.
+<div align="center">
 
-`DBSCAN → density zones → interactive alert mapping`
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gayathrisathish&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=7B5EA7&text_color=8b949e&hide=stars" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrisathish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=8b949e" />
 
----
+</div>
 
-## ⬡ Ideas I'm Exploring
-
-### 📈 Volatility Forecasting (GARCH × Neural Models)
-
-Building a hybrid pipeline where **statistical structure guides learning**.
-
-Goal:
-make models that don’t just fit data — but **hold up across market regimes**.
-
----
-
-### 🧠 Multimodal Verification Systems
-
-Exploring how combining multiple weak signals can outperform single-model detection.
-
-Focus:
-robustness > accuracy on clean benchmarks.
+<br/>
 
 ---
 
 <div align="center">
-
-“Always building. Always shipping.”
-
+<sub><code>Chennai, India &nbsp;·&nbsp; SRM IST '28 &nbsp;·&nbsp; open to collaborate</code></sub>
 </div>
