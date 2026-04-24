@@ -10,9 +10,17 @@ CS undergrad. I build things that deal with risk, data, and uncertainty.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white&label=gayathri-sathish)](https://linkedin.com/in/gayathrisathish)&nbsp;
-[![Mail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white&label=gayathrisathish06)](mailto:gayathrisathish06@gmail.com)&nbsp;
+<p align="center">
 
+<a href="https://linkedin.com/in/gayathrisathish">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gayathrisathish06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 </div>
 
 <br/>
