@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Building+systems.;Exploring+finance.;Shipping+ideas." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=1&pause=2000&color=00B4D8&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Building+systems.;Exploring+finance.;Shipping+ideas." />
 
 <br/>
 
