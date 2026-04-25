@@ -12,7 +12,7 @@ CS undergrad. I build things that deal with risk, data, and uncertainty.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/gayathrisathish">
+<a href="https://www.linkedin.com/in/gayathri-sathish01/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
