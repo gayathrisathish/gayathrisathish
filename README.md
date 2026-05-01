@@ -5,7 +5,8 @@
 <br/>
 
 ```
-CS undergrad. I build things that deal with risk, data, and uncertainty.
+Sophomore · Computer Science (Mathematics & Computing) 
+Quantitative Research ·FinTech · Machine Learning · AI · Full‑Stack Engineering
 ```
 
 <br/>
